@@ -1,0 +1,25 @@
+{
+  "name": "webpack-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XOP/webpack-intro.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "stewiekillsloiss@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XOP/webpack-intro/issues"
+  },
+  "homepage": "https://github.com/XOP/webpack-intro",
+  "devDependencies": {
+    "script-loader": "^0.6.1"
+  }
+}
